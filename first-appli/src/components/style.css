@@ -1,0 +1,45 @@
+.stylepic{ border-style: double;
+    border-color: beige;
+    width: 300px;
+    height: 300px;
+
+
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 40px;
+    
+}
+
+.stph{
+    
+    display: flex;
+    justify-content:space-around;
+}
+ .text{
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+ }
+.nvnavi{
+   height: 50px;
+   width: 500px ;
+    
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+ .navi{
+    
+     height: 100px;
+    width: 1500px ;
+   
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+ }
+.imsty{
+    height:50px;
+    width:50px ;
+}
